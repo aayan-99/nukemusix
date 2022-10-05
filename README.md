@@ -2,7 +2,7 @@
 
 This is Music player web application like Spotify or Soundcloud
 
-## [Demo Link](https://netflix-clone-bd0j03jxp-aayan-99.vercel.app) 🔗
+## [Demo Link](https://nukemusix.vercel.app/) 🔗
 
 ## Technologies used 🛠️
 
